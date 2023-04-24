@@ -1,2 +1,3 @@
 # SSL
-Compilador: TDM-GCC 10.3
+Alumno: Italo Alberto Furgiuele
+Compilador usado: TDM-GCC 10.3
